@@ -22,7 +22,7 @@ task_json = {
     "Positive Examples": [
         {
             "input": "In early work , Rutherford discovered the concept of radioactive half-life, the radioactive element radon, and classified three types of radiations: alpha, beta and gamma radiation .\n",
-            "output": "Rutherford discovered the radioactive half-life, the chemical element radon, and the three parts of radiation which he named Alpha , Beta , and Gamma .\n",
+            "output": "Rutherford discovered the radioactive half-life, the chemical element radon, and the three parts of radiation which he named Alpha, Beta, and Gamma .\n",
             "explanation": "The output sentence is a simplified version of the input sentence."
         },
         {
