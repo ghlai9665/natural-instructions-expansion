@@ -510,4 +510,7 @@ Name | Summary | Category
 `task643_refresd_classification` | Classification based on if an english and french sentence are different or equivalent. | Classification
 `task644_refresd_translation` | Translation from english to french sentences. | Translation 
 `task933_wiki_auto_style_transfer` | Rewrite wikipedia sentences in simple English. | Style Transfer 
+`task949_e2e_text_generation` | Generate a restaurant description from a data table. | Text Generation
+`task950_e2e_text_generation` | Parse a restaurant description into a data able. | Text Generation
+
 
