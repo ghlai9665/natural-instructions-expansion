@@ -512,5 +512,7 @@ Name | Summary | Category
 `task933_wiki_auto_style_transfer` | Rewrite wikipedia sentences in simple English. | Style Transfer 
 `task949_e2e_text_generation` | Generate a restaurant description from a data table. | Text Generation
 `task950_e2e_text_generation` | Parse a restaurant description into a data able. | Text Generation
+`task951_e2e_text_generation` | Identify the named entity that is the subject of the excerpt. | Text Generation
+
 
 
